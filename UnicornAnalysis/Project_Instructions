@@ -40,8 +40,3 @@ From those industries (1), you will need to find the number of unicorns within t
 
 With the above information you can then finish your query to return a table containing industry, year, num_unicorns, and average_valuation_billions. For readability, the firm have asked you to sort your results by year and number of unicorns, both in descending order.
 
-
-    AND industry in (SELECT industry
-                    FROM top_industries)
-GROUP BY industry, num_unicorns, year
-ORDER BY year DESC, num_unicorns DESC
