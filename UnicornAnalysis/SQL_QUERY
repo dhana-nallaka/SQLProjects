@@ -1,6 +1,7 @@
 
 **SQL QUERY**
 
+
 WITH top_industries AS
 (
     SELECT i.industry, 
