@@ -1,4 +1,4 @@
-This is the repository for the SQL Projects which helps in the path of Data Science
+**SQL PROJECT REPOSITORY**
 
-Project1: 
+Project1: Analysis of Student Mental Health
 Project2: Unicorn Analysis 
